@@ -1,0 +1,147 @@
+Starting execution for channel data: True, video data: True, comment data: True
+58 channels already done out of 60
+58 channel's videos already done out of 60
+Time elapsed for videos of playlist UUYidQwKhM3WTDKpT8pwfJzw 0.4491257667541504 for 189 videos
+Done 421 video's comments out of 57637
+Time elapsed for comments on video 8soK9uxXod4 5.0431177616119385 for 1304 comments
+Time elapsed for comments on video l4P1aZvmHpc 0.9670476913452148 for 267 comments
+Time elapsed for comments on video lYTVlKYjxzM 1.85233473777771 for 476 comments
+Time elapsed for comments on video 4cyi0QrPMq4 13.09361743927002 for 3504 comments
+Time elapsed for comments on video N8Rz-hskAr4 1.319624662399292 for 336 comments
+Time elapsed for comments on video HQJNPDyjMSc 1.7867255210876465 for 433 comments
+Time elapsed for comments on video G7nU1wnbfTs 1.3556294441223145 for 314 comments
+Time elapsed for comments on video KfrhlFhy9nE 1.9303994178771973 for 437 comments
+Time elapsed for comments on video 7-Rp50_5ai0 1.4937958717346191 for 372 comments
+Time elapsed for comments on video WAyqUMXxYpU 2.1036770343780518 for 542 comments
+Time elapsed for comments on video qN0k3COGjVo 1.8030531406402588 for 426 comments
+Time elapsed for comments on video c7l3REszJFM 1.6797888278961182 for 424 comments
+Time elapsed for comments on video 7R4zdTzdqIU 1.4000682830810547 for 306 comments
+Time elapsed for comments on video G9fHQOr3PQU 2.933452844619751 for 721 comments
+Time elapsed for comments on video 3PyKP6jFWqg 0.580780029296875 for 173 comments
+Time elapsed for comments on video dlI_Ur-LRp8 7.019468069076538 for 1813 comments
+Time elapsed for comments on video YOBNvzYtoTc 1.8505048751831055 for 453 comments
+Time elapsed for comments on video NQLRh28rSC0 1.679344654083252 for 467 comments
+Time elapsed for comments on video tI-PTe5xGC8 1.8917145729064941 for 428 comments
+Time elapsed for comments on video URAHq19aKck 2.178769826889038 for 554 comments
+Time elapsed for comments on video 0u2dvQvXyNQ 6.652027130126953 for 1741 comments
+Time elapsed for comments on video WRk-T2SxLDo 1.4424080848693848 for 398 comments
+Time elapsed for comments on video SlHPNPclRVk 3.1424317359924316 for 761 comments
+Time elapsed for comments on video 3DsHuSU4Y5g 2.5301661491394043 for 618 comments
+Time elapsed for comments on video 0Am3CzpandY 4.547693729400635 for 1175 comments
+Time elapsed for comments on video xZKhryweN3k 6.705633878707886 for 1885 comments
+Time elapsed for comments on video AKB58sbHaPA 3.5991814136505127 for 888 comments
+Time elapsed for comments on video ejI5D_zG3zw 4.422243595123291 for 517 comments
+Time elapsed for comments on video uKRaaS78Ep0 3.1437320709228516 for 808 comments
+Time elapsed for comments on video D4jtv2ExaxE 5.700590372085571 for 1463 comments
+Time elapsed for comments on video c3Ovq35ex60 2.1456778049468994 for 557 comments
+Time elapsed for comments on video BdbsAubqKvU 6.141489744186401 for 1531 comments
+Time elapsed for comments on video XmpQVjSyaIU 4.040574073791504 for 1068 comments
+Time elapsed for comments on video yJBmjwrz1Uw 6.738227605819702 for 1723 comments
+Time elapsed for comments on video DmwovO9C3lI 7.985857248306274 for 2155 comments
+Time elapsed for comments on video oMmVDHs36SE 3.4461216926574707 for 826 comments
+Time elapsed for comments on video qQM9aQGM7x4 2.3469014167785645 for 527 comments
+Time elapsed for comments on video IH8Jv_vMh_s 7.090538024902344 for 1750 comments
+Time elapsed for comments on video gjK2xgolAws 14.09673547744751 for 3937 comments
+Time elapsed for comments on video BPTkGufWeoE 2.912768602371216 for 757 comments
+Time elapsed for comments on video nlGXGtcCWz0 2.4213829040527344 for 606 comments
+Time elapsed for comments on video jRUVAWKof0Y 9.21207594871521 for 2455 comments
+Time elapsed for comments on video NMOqY1QcPjE 2.875880479812622 for 766 comments
+Time elapsed for comments on video rW_vWO3smeE 9.483753681182861 for 2477 comments
+Time elapsed for comments on video TvSvPpDgLSA 3.35326886177063 for 771 comments
+Time elapsed for comments on video t9QGFKICrU4 11.365805864334106 for 2952 comments
+Time elapsed for comments on video O_oK5Zo9-So 6.024274587631226 for 1569 comments
+Time elapsed for comments on video GfMVnGTeODE 3.047976016998291 for 742 comments
+Time elapsed for comments on video n0iMqAEJIPw 5.072325706481934 for 1337 comments
+Time elapsed for comments on video KpmydilWkOk 1.310673475265503 for 287 comments
+Time elapsed for comments on video 504sA0RT9wk 4.026212453842163 for 1090 comments
+Time elapsed for comments on video uPQyHC-o8Ys 2.1960697174072266 for 560 comments
+Time elapsed for comments on video t6pLC4Lj5Rc 1.6809258460998535 for 455 comments
+Time elapsed for comments on video HF0mYuhk2t4 2.518749237060547 for 601 comments
+Time elapsed for comments on video YvyJhE_t6Pw 1.4670844078063965 for 388 comments
+Time elapsed for comments on video HqUxkGbm6Io 3.3574607372283936 for 813 comments
+Time elapsed for comments on video bIDhd9RBbyo 3.5878376960754395 for 920 comments
+Time elapsed for comments on video 3cwmieNJGOY 1.8680791854858398 for 450 comments
+Time elapsed for comments on video deqBOIk2DKA 2.1296188831329346 for 547 comments
+Time elapsed for comments on video zRxPAaEXBTY 3.5864923000335693 for 1003 comments
+Time elapsed for comments on video YGQpcTaEboM 1.027663230895996 for 229 comments
+Time elapsed for comments on video egfR8H80GVA 2.6675450801849365 for 631 comments
+Time elapsed for comments on video hkIbyLvGXUE 2.1554195880889893 for 537 comments
+Time elapsed for comments on video SCqw9fa7wy8 4.325814485549927 for 1035 comments
+Time elapsed for comments on video TIuHjsgcljo 3.9734959602355957 for 1069 comments
+Time elapsed for comments on video 7YqaNOenq50 7.7501606941223145 for 2002 comments
+Time elapsed for comments on video 1f4Yl3_hNug 4.907531261444092 for 1269 comments
+Time elapsed for comments on video VLJ6LUkkWTg 2.2377262115478516 for 612 comments
+Time elapsed for comments on video S6zmN4ikvRA 1.6693816184997559 for 406 comments
+Time elapsed for comments on video IKStGp_M9JU 7.036061763763428 for 1839 comments
+Time elapsed for comments on video 2PrgBRwYQL8 6.16092586517334 for 1591 comments
+Time elapsed for comments on video vgeFUalGguk 2.32611083984375 for 604 comments
+Time elapsed for comments on video Ifh5JBz8cMs 2.2849488258361816 for 576 comments
+Time elapsed for comments on video DVuHwvPlDFQ 5.549626111984253 for 1455 comments
+Time elapsed for comments on video vUKh1HDz4OU 3.542680263519287 for 928 comments
+Time elapsed for comments on video _5xdGztT5TQ 9.31680154800415 for 2506 comments
+Time elapsed for comments on video ap_DWc1xUQE 2.803591728210449 for 697 comments
+Time elapsed for comments on video GJ7bNeqdNgM 3.860644817352295 for 904 comments
+Time elapsed for comments on video P_TgDXkuCeU 3.2429263591766357 for 879 comments
+Time elapsed for comments on video WXV3ct2PY2Y 3.7895567417144775 for 1019 comments
+Time elapsed for comments on video uE53Z_St9XE 2.206648826599121 for 561 comments
+Time elapsed for comments on video Zp845bMOl_c 11.3920316696167 for 3089 comments
+Time elapsed for comments on video EWdvXeBk3-U 1.4077098369598389 for 354 comments
+Time elapsed for comments on video 7yo6xs4X57w 5.216201305389404 for 1444 comments
+Time elapsed for comments on video WsfdW5z9iSg 2.0818850994110107 for 568 comments
+Time elapsed for comments on video I0gUWrev0XA 1.2605633735656738 for 302 comments
+Time elapsed for comments on video 57ujbIxp954 1.9662630558013916 for 541 comments
+Time elapsed for comments on video KuB9OoKgLZ4 1.9917869567871094 for 507 comments
+Time elapsed for comments on video BIBgoRiu3nk 2.6859841346740723 for 640 comments
+Time elapsed for comments on video pTq2hFL4UqM 3.8418564796447754 for 920 comments
+Time elapsed for comments on video vdQ_meamECs 0.9445638656616211 for 288 comments
+Time elapsed for comments on video 81kPB5KJJIU 1.0844976902008057 for 271 comments
+Time elapsed for comments on video oyCJ_7DNmmg 1.7177734375 for 434 comments
+Time elapsed for comments on video 3CRqRyfCMSs 1.4617724418640137 for 403 comments
+Time elapsed for comments on video UXk4-OG2uak 4.344833135604858 for 1143 comments
+Time elapsed for comments on video g9g7EHz2rPg 1.8765439987182617 for 480 comments
+Time elapsed for comments on video eOVp1V3eSKg 6.928033351898193 for 1786 comments
+Time elapsed for comments on video Pn0EgeuRwb8 7.8110785484313965 for 1989 comments
+Time elapsed for comments on video qp0FZ6WxNjI 2.010288953781128 for 581 comments
+Time elapsed for comments on video VT0X33Ynm0o 1.2963981628417969 for 303 comments
+Time elapsed for comments on video -7W_TPwnJiE 2.907892942428589 for 734 comments
+Time elapsed for comments on video oNXLxhABUjY 1.9161126613616943 for 524 comments
+Time elapsed for comments on video DNcf87KKciE 0.7417142391204834 for 188 comments
+Time elapsed for comments on video HLFWMLAoqdI 0.6580228805541992 for 183 comments
+Time elapsed for comments on video oQIk8u6KDMg 0.2845168113708496 for 58 comments
+Time elapsed for comments on video QshpbAPQI4k 1.2448008060455322 for 317 comments
+Starting execution for channel data: True, video data: False, comment data: False
+1 channels already done out of 60
+Starting execution for channel data: True, video data: False, comment data: False
+108 channels already done out of 60
+Starting execution for channel data: True, video data: False, comment data: False
+51 channels already done out of 60
+Starting execution for channel data: True, video data: False, comment data: False
+8 channels already done out of 60
+Starting execution for channel data: True, video data: False, comment data: False
+51 channels already done out of 60
+Starting execution for channel data: True, video data: False, comment data: False
+8 channels already done out of 60
+Starting execution for channel data: True, video data: False, comment data: False
+51 channels already done out of 60
+Starting execution for channel data: True, video data: False, comment data: False
+8 channels already done out of 60
+Starting execution for channel data: True, video data: False, comment data: False
+59 channels already done out of 60
+Starting execution for channel data: True, video data: False, comment data: False
+No channels already done, querying all 60 IDs
+Starting execution for channel data: True, video data: False, comment data: False
+59 channels already done out of 60
+Starting execution for channel data: True, video data: False, comment data: False
+No channels already done, querying all 60 IDs
+Done 59 channels
+Starting execution for channel data: True, video data: False, comment data: False
+59 channels already done out of 60
+Starting execution for channel data: True, video data: False, comment data: False
+59 channels already done out of 60
+Starting execution for channel data: True, video data: False, comment data: False
+59 channels already done out of 60
+Starting execution for channel data: True, video data: False, comment data: False
+No channels already done, querying all 60 IDs
+Done 59 channels
+Starting execution for channel data: True, video data: False, comment data: False
+59 channels already done out of 60
